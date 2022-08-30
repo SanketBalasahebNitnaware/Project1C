@@ -1,0 +1,7 @@
+Let’s suppose you have been hired as a Data Analyst by Youtube, your first task is to create a dashboard
+for the latest trending YouTube videos across regions.This dataset includes several months (and
+counting) of data on daily trending YouTube videos. Data is included for the US, GB, DE, CA, FR, RU, MX,
+KR, JP and IN regions regions (USA, Great Britain, Germany, Canada, France, Russia, Mexico, South
+Korea, Japan and India respectively respectively), with up to 200 listed trending videos per day. Each
+region’s data is in a separate file and the data for each region includes the video title, channel title,
+publish time, tags, views, likes and dislikes, description, and comment count.
